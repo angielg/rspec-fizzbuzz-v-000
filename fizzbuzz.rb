@@ -18,4 +18,3 @@ def fizzbuzz(num)
   else 
   end
 
-end
