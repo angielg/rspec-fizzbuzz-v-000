@@ -17,8 +17,6 @@ def fizzbuzz(num)
     
   else 
     puts nil
-  
-   
   end
 end
 
